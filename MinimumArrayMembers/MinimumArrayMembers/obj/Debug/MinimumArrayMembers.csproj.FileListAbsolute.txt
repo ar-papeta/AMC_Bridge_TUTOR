@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\MinimumArrayMembers.exe.config
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\MinimumArrayMembers.exe
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\bin\Debug\MinimumArrayMembers.pdb
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\MinimumArrayMembers.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\MinimumArrayMembers.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\MinimumArrayMembers.exe
+F:\VisualStudio\AMC_q_test\MinimumArrayMembers\MinimumArrayMembers\obj\Debug\MinimumArrayMembers.pdb

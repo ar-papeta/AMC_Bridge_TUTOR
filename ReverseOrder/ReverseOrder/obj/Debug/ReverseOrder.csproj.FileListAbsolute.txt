@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\bin\Debug\ReverseOrder.exe.config
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\bin\Debug\ReverseOrder.exe
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\bin\Debug\ReverseOrder.pdb
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.exe
+F:\VisualStudio\AMC_q_test\ReverseOrder\ReverseOrder\obj\Debug\ReverseOrder.pdb

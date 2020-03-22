@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\bin\Debug\SortArray.exe.config
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\bin\Debug\SortArray.exe
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\bin\Debug\SortArray.pdb
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\obj\Debug\SortArray.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\obj\Debug\SortArray.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\obj\Debug\SortArray.exe
+F:\VisualStudio\AMC_q_test\SortArray\SortArray\obj\Debug\SortArray.pdb

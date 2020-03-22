@@ -1,0 +1,6 @@
+F:\VisualStudio\AMC_q_test\Hexadecimal\Hexadecimal\bin\Debug\Hexadecimal.exe.config
+F:\VisualStudio\AMC_q_test\Hexadecimal\Hexadecimal\bin\Debug\Hexadecimal.exe
+F:\VisualStudio\AMC_q_test\Hexadecimal\Hexadecimal\bin\Debug\Hexadecimal.pdb
+F:\VisualStudio\AMC_q_test\Hexadecimal\Hexadecimal\obj\Debug\Hexadecimal.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\Hexadecimal\Hexadecimal\obj\Debug\Hexadecimal.exe
+F:\VisualStudio\AMC_q_test\Hexadecimal\Hexadecimal\obj\Debug\Hexadecimal.pdb

@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\bin\Debug\ItemsPossessed.exe.config
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\bin\Debug\ItemsPossessed.exe
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\bin\Debug\ItemsPossessed.pdb
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\obj\Debug\ItemsPossessed.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\obj\Debug\ItemsPossessed.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\obj\Debug\ItemsPossessed.exe
+F:\VisualStudio\AMC_q_test\ItemsPossessed\ItemsPossessed\obj\Debug\ItemsPossessed.pdb

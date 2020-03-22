@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceOfDifferentPairs", "SequenceOfDifferentPairs\SequenceOfDifferentPairs.csproj", "{2FBC09F2-93CD-4985-AC06-02E8671FF23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FBC09F2-93CD-4985-AC06-02E8671FF23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBC09F2-93CD-4985-AC06-02E8671FF23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBC09F2-93CD-4985-AC06-02E8671FF23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBC09F2-93CD-4985-AC06-02E8671FF23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB226C8B-CB20-42FB-BD5E-281301663A1B}
+	EndGlobalSection
+EndGlobal

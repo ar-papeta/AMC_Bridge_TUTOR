@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\bin\Debug\Taxi.exe.config
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\bin\Debug\Taxi.exe
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\bin\Debug\Taxi.pdb
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\obj\Debug\Taxi.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\obj\Debug\Taxi.exe
+F:\VisualStudio\AMC_q_test\Taxi\Taxi\obj\Debug\Taxi.pdb

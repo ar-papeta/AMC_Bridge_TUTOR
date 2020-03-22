@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\Cube\Cube\bin\Debug\Cube.exe.config
+F:\VisualStudio\AMC_q_test\Cube\Cube\bin\Debug\Cube.exe
+F:\VisualStudio\AMC_q_test\Cube\Cube\bin\Debug\Cube.pdb
+F:\VisualStudio\AMC_q_test\Cube\Cube\obj\Debug\Cube.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\Cube\Cube\obj\Debug\Cube.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\Cube\Cube\obj\Debug\Cube.exe
+F:\VisualStudio\AMC_q_test\Cube\Cube\obj\Debug\Cube.pdb

@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.exe.config
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.exe
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.pdb
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.exe
+F:\VisualStudio\AMC_q_test\ArithmeticProgressionSum\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.pdb

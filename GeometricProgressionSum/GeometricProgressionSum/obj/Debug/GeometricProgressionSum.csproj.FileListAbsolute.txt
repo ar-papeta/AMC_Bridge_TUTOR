@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\bin\Debug\GeometricProgressionSum.exe.config
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\bin\Debug\GeometricProgressionSum.exe
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\bin\Debug\GeometricProgressionSum.pdb
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\obj\Debug\GeometricProgressionSum.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\obj\Debug\GeometricProgressionSum.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\obj\Debug\GeometricProgressionSum.exe
+F:\VisualStudio\AMC_q_test\GeometricProgressionSum\GeometricProgressionSum\obj\Debug\GeometricProgressionSum.pdb

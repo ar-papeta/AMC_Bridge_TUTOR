@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\Salary\Salary\bin\Debug\Salary.exe.config
+F:\VisualStudio\AMC_q_test\Salary\Salary\bin\Debug\Salary.exe
+F:\VisualStudio\AMC_q_test\Salary\Salary\bin\Debug\Salary.pdb
+F:\VisualStudio\AMC_q_test\Salary\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\Salary\Salary\obj\Debug\Salary.exe
+F:\VisualStudio\AMC_q_test\Salary\Salary\obj\Debug\Salary.pdb

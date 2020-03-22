@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\bin\Debug\DistanceBetweenTwo3DLines.exe.config
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\bin\Debug\DistanceBetweenTwo3DLines.exe
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\bin\Debug\DistanceBetweenTwo3DLines.pdb
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\obj\Debug\DistanceBetweenTwo3DLines.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\obj\Debug\DistanceBetweenTwo3DLines.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\obj\Debug\DistanceBetweenTwo3DLines.exe
+F:\VisualStudio\AMC_q_test\DistanceBetweenTwo3DLines\DistanceBetweenTwo3DLines\obj\Debug\DistanceBetweenTwo3DLines.pdb

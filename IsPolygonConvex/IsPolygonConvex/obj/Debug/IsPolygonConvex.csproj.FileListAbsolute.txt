@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\bin\Debug\IsPolygonConvex.exe.config
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\bin\Debug\IsPolygonConvex.exe
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\bin\Debug\IsPolygonConvex.pdb
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\obj\Debug\IsPolygonConvex.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\obj\Debug\IsPolygonConvex.exe
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\obj\Debug\IsPolygonConvex.pdb
+F:\VisualStudio\AMC_q_test\IsPolygonConvex\IsPolygonConvex\obj\Debug\IsPolygonConvex.csprojAssemblyReference.cache

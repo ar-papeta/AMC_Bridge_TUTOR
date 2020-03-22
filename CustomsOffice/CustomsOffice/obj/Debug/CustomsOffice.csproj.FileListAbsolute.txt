@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\bin\Debug\CustomsOffice.exe.config
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\bin\Debug\CustomsOffice.exe
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\bin\Debug\CustomsOffice.pdb
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\obj\Debug\CustomsOffice.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\obj\Debug\CustomsOffice.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\obj\Debug\CustomsOffice.exe
+F:\VisualStudio\AMC_q_test\CustomsOffice\CustomsOffice\obj\Debug\CustomsOffice.pdb

@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\bin\Debug\LongestIncreasingSubarray.exe.config
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\bin\Debug\LongestIncreasingSubarray.exe
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\bin\Debug\LongestIncreasingSubarray.pdb
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.exe
+F:\VisualStudio\AMC_q_test\LongestIncreasingSubarray\LongestIncreasingSubarray\obj\Debug\LongestIncreasingSubarray.pdb

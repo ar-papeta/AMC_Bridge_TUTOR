@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+F:\VisualStudio\AMC_q_test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

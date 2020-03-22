@@ -1,0 +1,7 @@
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\bin\Debug\SequenceAlteration.exe.config
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\bin\Debug\SequenceAlteration.exe
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\bin\Debug\SequenceAlteration.pdb
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\obj\Debug\SequenceAlteration.csprojAssemblyReference.cache
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\obj\Debug\SequenceAlteration.csproj.CoreCompileInputs.cache
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\obj\Debug\SequenceAlteration.exe
+F:\VisualStudio\AMC_q_test\SequenceAlteration\SequenceAlteration\obj\Debug\SequenceAlteration.pdb
